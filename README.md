@@ -17,7 +17,7 @@ Introduction
     Besides, boundary B is defined as the range where our paths can located.
     And the minimum spacing S is defined as the required spacing between shapes and the boundary. 
     In this problem, there are also multiple layers.
-    Therefore, we have to connect shapes among layers while considering vias among layers.
+    Therefore, we have to connect shapes among layers while considering vias costs.
 
 ![image](https://github.com/muachilin/Net-Open-Location-Finder-With-Obstacles/blob/master/problem_example.png)
 
