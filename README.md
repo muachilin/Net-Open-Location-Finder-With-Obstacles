@@ -2,17 +2,14 @@
 
 Introduction
 -------------
-    
-    Finding the shortest path for several terminals is a well known unsolvable problem. 
-    For example, problem such as "Steiner Tree Problem", the decision variant of the problem 
-    in graphs is NP-complete (which implies that the optimization variant is NP-hard). 
-    In our problem, we have several layers rectangle routed net shapes that need to be connected, 
-    and some rectangle obstacles that can’t be crossed. This should also not be able to solved by polynomial time. 
-    Thus, the only way we can process this is to use some heuristics to approach the minimum path. 
-    There are some previous works which give some good approach to the problems such as 
-    obstacle-avoiding RMST(Rectilinear Steiner minimal tree) problem and multilayer 
-    OARSMT(Obstacle avoiding rectilinear Steiner minimal tree). 
-    These past approaches give us some idea to handle this problem.
+    This problem is Problem B in 2017 CAD Contest at ICCAD (International Conference On Computer Aided Design). 
+    We need to connect all the routed net shapes and the vias while minimizing total wire length cost. 
+    There are three kinds of objects in this problem. They are routed net shapes R, routed net vias V, and obstacles O. 
+    They are blue, yellow, and grey in the following picture, respectively. 
+    There are designed boundary B which is the range where our paths can located, 
+    and the minimum spacing S which is the spacing that we need to keep with the obstacles and the boundary. 
+    In this problem, there are multiple layers. And the cost which required to cross the layers are Cv. 
+    The routing paths have to be horizontal or vertical.
 
 ![image](https://github.com/muachilin/Net-Open-Location-Finder-With-Obstacles/blob/master/problem_example.png)
 
