@@ -15,3 +15,10 @@ Introduction
     These past approaches give us some idea to handle this problem.
 
 ![image](https://github.com/muachilin/Net-Open-Location-Finder-With-Obstacles/blob/master/problem_example.png)
+
+Approaches
+======
+
+    1. Find the Overlapped Routed Net Shapes and the Obstacles
+    2. Construct the Routing Edge
+    3. Construct Prim's Minimum Spanning Tree
