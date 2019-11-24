@@ -16,7 +16,7 @@ Introduction
 
 ![image](https://github.com/muachilin/Net-Open-Location-Finder-With-Obstacles/blob/master/problem_example.png)
 
-Approaches
+Steps
 ======
 
     1. Find the Overlapped Routed Net Shapes and the Obstacles
