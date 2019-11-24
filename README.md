@@ -1,9 +1,10 @@
 # Net Open Location Finder With Obstacles
 
-Problem
+Problem Source
 --------
 
-    This problem is Problem B in 2017 CAD Contest at ICCAD (International Conference On Computer Aided Design).
+    This project is based on Problem B in 2017 CAD Contest 
+    at ICCAD (International Conference On Computer Aided Design).
     
     
 Introduction
