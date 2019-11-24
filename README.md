@@ -27,3 +27,4 @@ Steps
     1. Find the overlapping routing net shapes and the obstacles
     2. Construct the routing edge candidates
     3. Construct Prim's minimum spanning tree
+    More details are included in the file "project_report.pdf"
