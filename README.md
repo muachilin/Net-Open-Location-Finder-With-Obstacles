@@ -1,8 +1,14 @@
 # Net Open Location Finder With Obstacles
 
+Problem
+--------
+
+    This problem is Problem B in 2017 CAD Contest at ICCAD (International Conference On Computer Aided Design).
+    
+    
 Introduction
 -------------
-    This problem is Problem B in 2017 CAD Contest at ICCAD (International Conference On Computer Aided Design). 
+    
     We need to connect all the routed net shapes and the vias while minimizing total wire length cost. 
     There are three kinds of objects in this problem. They are routed net shapes R, routed net vias V, and obstacles O. 
     They are blue, yellow, and grey in the following picture, respectively. 
