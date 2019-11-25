@@ -6,6 +6,8 @@ Problem Source
     This project is based on the Problem B in 2017 CAD Contest 
     at ICCAD (International Conference On Computer Aided Design).
     
+    https://iccad.com/sites/iccad.com/files/Files/CAD_Contest_CFP_2017_v2.pdf
+    
     
 Introduction
 -------------
