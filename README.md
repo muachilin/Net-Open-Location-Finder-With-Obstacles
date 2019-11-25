@@ -1,16 +1,15 @@
 # Net Open Location Finder With Obstacles
 
-Problem Source
---------
+## Problem Source
 
     This project is based on the Problem B in 2017 CAD Contest 
     at ICCAD (International Conference On Computer Aided Design).
     
-    https://iccad.com/sites/iccad.com/files/Files/CAD_Contest_CFP_2017_v2.pdf
+    https://iccad.com/sites/iccad.com/files/Files/CAD_Contest_CFP_2017_v2.pdf 
     
     
-Introduction
--------------
+    
+## Introduction
     
     We need to connect all net shapes and vias using rectilinear paths while minimizing wire length cost. 
     There are three kinds of objects in this problem. 
@@ -23,8 +22,7 @@ Introduction
 
 ![image](https://github.com/muachilin/Net-Open-Location-Finder-With-Obstacles/blob/master/problem_example.png)
 
-Steps
-======
+## Steps
 
     1. Find the overlapping routing net shapes and the obstacles
     2. Construct the routing edge candidates
